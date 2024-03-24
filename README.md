@@ -77,6 +77,7 @@ Berikut adalah beberapa fungsi yang dimiliki oleh kelas Menu:
 <img width="512" alt="data berhasil ditambahkan" src="https://github.com/Nurainunlubis/TP2DPBO2024C1/assets/113582460/c2a0665a-405f-4644-8e63-eb883d565052">
 
 7.Update data kosong
+
 <img width="517" alt="update data kosong" src="https://github.com/Nurainunlubis/TP2DPBO2024C1/assets/113582460/dcb879b0-a8b4-4331-a53d-934af4de0acc">
 
 8. Update data
