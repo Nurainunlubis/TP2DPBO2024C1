@@ -56,4 +56,41 @@ Berikut adalah beberapa fungsi yang dimiliki oleh kelas Menu:
 - Penggunaan prepared statements dalam JDBC dapat membantu mencegah serangan SQL injection dan meningkatkan keamanan aplikasi.
 - Koneksi ke database biasanya dibuka saat program dimulai dan ditutup saat program berakhir atau saat koneksi tidak lagi diperlukan untuk menghindari kebocoran sumber daya (resource leak).
 
-### Dokumentasi Program
+## Dokumentasi Program
+
+1. Insert data yang sudah ada nim nya 
+<img width="516" alt="yang sudah ada nim nya" src="https://github.com/Nurainunlubis/TP2DPBO2024C1/assets/113582460/f7c61c62-8d64-400b-8dce-8246a780b965">
+
+2.  Show massage 
+<img width="512" alt="show massage nim sudah ada" src="https://github.com/Nurainunlubis/TP2DPBO2024C1/assets/113582460/03368102-7845-46ac-9d3f-e1543c79940f">
+
+3. Insert data kosong
+<img width="516" alt="input data kosong" src="https://github.com/Nurainunlubis/TP2DPBO2024C1/assets/113582460/58a5bb1b-1100-453b-9894-3a30f782776d">
+
+4. Show Massage data kosong
+<img width="514" alt="data tidak boleh kosong" src="https://github.com/Nurainunlubis/TP2DPBO2024C1/assets/113582460/3064c809-baa8-4378-85d7-9b47f693237e">
+
+5. Insert Data
+<img width="516" alt="insert data" src="https://github.com/Nurainunlubis/TP2DPBO2024C1/assets/113582460/bf426900-1ed8-48ec-9a23-e8668b617b83">
+
+6. Data berhasil ditambahkan
+<img width="512" alt="data berhasil ditambahkan" src="https://github.com/Nurainunlubis/TP2DPBO2024C1/assets/113582460/c2a0665a-405f-4644-8e63-eb883d565052">
+
+7.Update data kosong
+<img width="517" alt="update data kosong" src="https://github.com/Nurainunlubis/TP2DPBO2024C1/assets/113582460/dcb879b0-a8b4-4331-a53d-934af4de0acc">
+
+8. Update data
+<img width="512" alt="update data" src="https://github.com/Nurainunlubis/TP2DPBO2024C1/assets/113582460/ba9d9ef3-5952-431e-a27c-4be9fbbf1abd">
+
+9. Show massage update
+<img width="518" alt="data berhasil di ubah" src="https://github.com/Nurainunlubis/TP2DPBO2024C1/assets/113582460/e6d74a58-76bf-4331-af27-a99696fbac3d">
+
+10. konfirmasi hapus data
+<img width="511" alt="konfimasi hapus data" src="https://github.com/Nurainunlubis/TP2DPBO2024C1/assets/113582460/90954ee4-7e2f-45cf-bd5f-d1e62ee22cae">
+
+11. Show massage delete
+<img width="513" alt="data berhasil dihapus" src="https://github.com/Nurainunlubis/TP2DPBO2024C1/assets/113582460/f916da61-be1a-4846-b41a-953043fea780">
+
+
+
+
